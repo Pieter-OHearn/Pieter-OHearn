@@ -6,21 +6,16 @@
 <h1 align="center">Hi, I'm Pieter 👋</h1>
 <h3 align="center">Senior Full-Stack Engineer | Building secure, user-centric digital identity solutions</h3>
 
----
-
 ### 🧭 About Me
-I'm a full-stack engineer passionate about **clean architecture**, **developer experience**, and **human-centred design**.  
-I enjoy crafting thoughtful systems that balance reliability, security, and delight, from mobile frameworks to cloud backends.  
+I'm a full-stack engineer passionate about **clean architecture**, **developer experience**, and **human-centred design**. I enjoy designing systems that feel reliable, secure, and seamless to use, from mobile frameworks to cloud backends.
 
 When I'm not shipping code, you’ll probably find me exploring Amsterdam’s coffee scene ☕ or planning my next side project.
-
----
 
 ### 🚀 Current Projects
 
 #### 🐨 **CodeKoala**
 A playful yet powerful CLI tool for **AI-assisted code reviews and commit messages**, designed to analyse `git diff`s and suggest improvements based on best practices.  
-*Built with Python, configurable for both local and API-based LLMs.*
+*Built with Python, optimised for local LLMs.*
 
 #### ☕ **Global Grounds**
 A cross-platform **coffee journal app** built with **Expo, React Native, and a Node.js backend using DynamoDB, deployed on AWS**.  
