@@ -3,9 +3,6 @@
   <img src="assets/profile-banner.png" alt="Profile banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Pieter 👋</h1>
-<h3 align="center">Senior Full-Stack Engineer | Building secure, user-centric digital identity solutions</h3>
-
 ### 🧭 About Me
 I'm a full-stack engineer passionate about **clean architecture**, **developer experience**, and **human-centred design**. I enjoy designing systems that feel reliable, secure, and seamless to use, from mobile frameworks to cloud backends.
 
