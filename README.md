@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/pieter-ohearn/pieter-ohearn/assets/banner.png" alt="Profile banner" width="100%" />
+  <img src="https://github.com/pieter-ohearn/pieter-ohearn/assets/profile-banner.png" alt="Profile banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Pieter 👋</h1>
