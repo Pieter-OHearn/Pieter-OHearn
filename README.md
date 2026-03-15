@@ -10,6 +10,10 @@ When I'm not shipping code, you’ll probably find me exploring Amsterdam’s co
 
 ### 🚀 Current Projects
 
+#### 💰 **Quro**
+A self-hosted **personal finance dashboard** that consolidates budgeting, savings, investing, and long-term planning into one place. Track salary, savings accounts, investments, pensions, and financial goals — with support for attaching documents like payslips and pension PDFs.
+*Built with React, TypeScript, Node.js, PostgreSQL, and Docker — fully self-hostable.*
+
 #### 🐨 **CodeKoala**
 A playful yet powerful CLI tool for **AI-assisted code reviews and commit messages**, designed to analyse `git diff`s and suggest improvements based on best practices.  
 *Built with Python, optimised for local LLMs.*
